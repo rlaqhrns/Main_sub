@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T02:47:17.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RaMm4mMYCAVqATcQ-Cwg" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:47:56.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="LUC49oWrmS1PPqQW_gXs" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1412" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="18" value="MENU3 : 장바구니" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="842" y="615.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="22" value="재휴 쇼핑몰 결제창" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="842" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="23" value="MENU4 : 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="615.5" width="200" height="60" as="geometry" />
@@ -127,7 +124,7 @@
             <mxPoint x="172" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="21" target="22" edge="1">
+        <mxCell id="49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="21" target="7K2ZeRDJW1N4FeQ3j8sl-61" edge="1">
           <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
             <mxPoint x="72" y="295.5" as="sourcePoint" />
             <mxPoint x="172" y="195.5" as="targetPoint" />
@@ -256,6 +253,12 @@
               <mxPoint x="1362" y="646" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-61" value="재휴 쇼핑몰 결제창" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1070" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="재휴 쇼핑몰 결제창" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="842" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
