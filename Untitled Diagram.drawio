@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T02:44:17.968Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XHrLO2kywDrV6waJMcQc" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:44:35.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gukboyvtWHpbRYgUhhx0" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1412" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="662" y="290" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Counsel Division" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="455.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="1092" y="440" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7" value="이용 가이드" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1072" y="290" width="200" height="60" as="geometry" />
@@ -218,7 +218,7 @@
           <mxGeometry x="842" y="885.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="검색엔진" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="672" y="455.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="672" y="440" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-57" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="18">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -240,7 +240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4" value="검색엔진" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="455.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="282" y="440" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
