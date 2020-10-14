@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T03:25:04.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-NP5MjGHaiuVYo0kJHSW" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T03:27:23.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="dsg0mREAHdO04wz5QoXX" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,13 +281,19 @@
             <mxPoint x="1230" y="1240" as="sourcePoint" />
             <mxPoint x="935" y="1460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="920" y="1310" />
+              <mxPoint x="1030" y="1300" />
               <mxPoint x="950" y="1310" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-79" value="알림 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="842" y="1280" width="200" height="60" as="geometry" />
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-79" value="재료 부족 알림" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-88" value="공지사항, Push 알림" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1365" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-89" value="유통기한 알림" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="835" y="1460" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
