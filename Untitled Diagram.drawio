@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T03:10:57.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="g4_iFN_98N0K4zi9zGzp" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T03:11:51.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="I1T_do_6WaFEzfL1U1MQ" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -267,14 +267,27 @@
         <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-77" value="로그아웃" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1092" y="1070" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-79" value="알림 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1270" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-80" value="라이트/나이트모드" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1370" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-84" value="공지사항" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1470" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-86" value="알림 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7K2ZeRDJW1N4FeQ3j8sl-86" target="7K2ZeRDJW1N4FeQ3j8sl-70">
+          <mxGeometry x="662" y="550" width="100" height="100" as="geometry">
+            <mxPoint x="1230" y="1240" as="sourcePoint" />
+            <mxPoint x="606.6999999999998" y="1606.2400000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1310" />
+              <mxPoint x="950" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-79" value="알림 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="842" y="1280" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
