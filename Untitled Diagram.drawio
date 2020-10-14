@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T02:34:58.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ZCNPjtIqjMEwU90HaSyJ" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:35:24.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Y9xE9Xk-53PWuXZci9BQ" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1412" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="22" value="Office of Training Services" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="842" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="23" value="MENU4 : 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="615.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24" value="" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
