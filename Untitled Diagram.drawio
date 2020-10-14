@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T02:54:03.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="G97NasdmfJteq5BI0UaS" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:54:22.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="SURNvQtJ-9p4C0MiMeRj" version="13.7.9" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1412" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,23 +19,20 @@
         <mxCell id="7" value="이용 가이드" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1072" y="290" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="MENU1 : 레시피" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="8" value="MENU1 : 레시피" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="282" y="615.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12" value="장바구니" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="1000" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="MENU2  : My냉장고" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="13" value="MENU2  : My냉장고" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="552" y="615.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="MENU3 : 장바구니" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="18" value="MENU3 : 장바구니" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="842" y="615.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="MENU4 : 설정" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="23" value="MENU4 : 설정" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="615.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="27" value="Office of&#xa; Regulatory Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="1WMlmqz9AwvqURgGaY2q-55" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
@@ -206,10 +203,10 @@
         <mxCell id="22" value="주문" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="842" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="23" target="27">
+        <mxCell id="7K2ZeRDJW1N4FeQ3j8sl-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="23">
           <mxGeometry x="82" y="175.5" width="100" height="100" as="geometry">
             <mxPoint x="952" y="685.5" as="sourcePoint" />
-            <mxPoint x="952" y="1080" as="targetPoint" />
+            <mxPoint x="1192" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24" value="마이페이지" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -239,6 +236,9 @@
               <mxPoint x="1040" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="로그아웃" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
